@@ -2,7 +2,7 @@ import React, { Component, useEffect } from "react";
 
 function Vercel() {
   useEffect(() => {
-    window.location.href = "https://vercel.com";
+    window.location.href = "https://vercel.com/";
   }, []);
 
   return (
