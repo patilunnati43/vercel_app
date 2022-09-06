@@ -39,7 +39,7 @@ const Home: FC = () => {
                     <tr>
                         <td>
                         <Link href='/EmailResponse/email' >
-                        <h3>Practise Email Response:&rarr;</h3>
+                        <h3>Practice Email Response:&rarr;</h3>
                         </Link>    
                         </td>
                     </tr>

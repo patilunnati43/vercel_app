@@ -1,16 +1,18 @@
 export default function recommendation() {
     return <div>
-        <h1>3 things I would be most interested to do</h1>
-        <ul>
-            <li>Work with the Team to make sure email tone is consistent with the Vercel brand.</li>
-            <li>Find ways to continually improve the day-to-day workflow for converting leads.</li>
-            <li>Hop on a Zoom call to qualify a prospect or educate them about Vercel.</li>
-        </ul>
-        <h1>3 things I would be least interested to do</h1>
-        <ul>
-            <li>Evaluate OSS sponsorship applications.</li>
-            <li>Evaluate an application to help determine if it's commercial or not.</li>
-            <li>Attend weekly enablement meetings to level up your product and sales knowledge.</li>
-        </ul>
+        <p>
+        When it comes to looking for a solution for hosting your Next.js site, what are some of the common things
+        you would value as the Engineering Manager for:
+        <br/>1. A mom and pop business?
+        <br/>2. An NFT?
+        <br/>3. A Marketing Page for a large corporation like Nintendo?
+        </p>
+        <p>I would value some common things as follows:
+        <br/>1.Problem Solving
+        <br/>2.Collaboration
+        <br/>3.Diligence
+        <br/>4.Strategy
+        <br/>5. Communication
+        </p>
     </div>
 }
